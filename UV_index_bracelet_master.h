@@ -1,3 +1,16 @@
+/***************************************************
+  This UV index bracelet was inspired by the Sunscreen reminder hat using the Si1145 UV/IR/Visible Light Sensor
+  visit https://learn.adafruit.com/sunscreen-reminder-hat for full tutorial
+  Written by Becky Stern for Adafruit Industries.
+  BSD license, all text above must be included in any redistribution.
+
+  EasyNeoPixels.h - Library for making neopixels more approachable.
+  Created by Evelyn Masso, April 9, 2017.
+
+  UV index bracelet
+  Written by Janelle Gatchalian, June 2017.
+ ****************************************************/
+
 #include <Wire.h>
 #include "Adafruit_SI1145.h"
 #include <EasyNeoPixels.h>
